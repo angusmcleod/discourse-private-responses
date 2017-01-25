@@ -1,0 +1,4 @@
+en:
+  js:
+    category:
+      private_responses_enabled: "Make topics in this category private response topics."
